@@ -10,6 +10,12 @@ Contatos:
 
 <img src="https://midias.correiobraziliense.com.br/_midias/jpg/2023/07/29/675x450/1_alexander_shatov__qsuer9xyoy_unsplash-28679832.jpg?20230729190111?20230729190111" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 657px; width:112px; height:35px; margin: 0px;" alt="WhatsApp deixa de funcionar hoje em 35 celulares; veja a lista" jsname="kn3ccd" aria-hidden="false">Cel e Whatsapp: (28) 99976-6167.
 
+<a href="https://wa.me/5528999766167" target="_blank">
+    <img src="https://midias.correiobraziliense.com.br/_midias/jpg/2023/07/29/675x450/1_alexander_shatov__qsuer9xyoy_unsplash-28679832.jpg?20230729190111?20230729190111" style="max-width: 657px; width:112px; height:35px; margin: 0px;" alt="WhatsApp deixa de funcionar hoje em 35 celulares; veja a lista">
+    Cel e Whatsapp: (28) 99976-6167
+</a>
+
+
 <img id="dimg_7JtrZuP2Kf3I1sQPjpO8kAU_323" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0fZGQVcUmD10dDI4njlh953XcP48-1OHtQ&amp;s" class="YQ4gaf" height="35" style="object-position:36% 44%" width="113" alt="Hotmail - Hotmail Sign up - www.hotmail.com - Hotmail Register - Hotmail.com" data-ilt="1718328238548">  tgcoportunidades@hotmail.com.
 <br><div> 
   <a href="https://www.linkedin.com/in/tiagogonçalvescesar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> www.linkedin.com/in/tiagogonçalvescesar.  
