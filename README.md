@@ -6,7 +6,7 @@ Sou Tiago Gonçalves Cesar
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 
-Formando em 08/24
+Formando em 08/24.
 
 Fazendo curso de Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns na Udemy.
 
