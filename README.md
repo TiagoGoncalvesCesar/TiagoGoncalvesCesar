@@ -4,7 +4,7 @@
 
 Sou Tiago Gonçalves Cesar
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+Estudante de Análise e Desenvolvimento de Sistemas na faculdade Multivix.
 
 Formando em 08/24.
 
