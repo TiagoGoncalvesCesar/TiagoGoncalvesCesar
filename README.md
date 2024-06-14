@@ -23,7 +23,7 @@ Contatos:
   <a href="https://www.linkedin.com/in/tiagogonçalvescesar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> www.linkedin.com/in/tiagogonçalvescesar.  
 </div>
 
-Gosto de tecnologias e estou em busca da primerira oportunidade de trabalho.
+Gosto de tecnologias e estou em busca da primeira oportunidade de emprego na área.
 <div style="display: inline-block"><br>
     <img align="center" alt="Java" height="30" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy68X5yI9qCENJoIJM3kp_7eN2tJIvYR8gfg&amp;s">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
