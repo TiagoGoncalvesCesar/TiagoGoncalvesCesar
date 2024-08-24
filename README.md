@@ -4,7 +4,7 @@
 
 Sou Tiago Gonçalves Cesar
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas na faculdade Multivix.
+Tecnólogo em Análise e Desenvolvimento de Sistemas com formação na faculdade Multivix.
 
 Formado em 08/24.
 
