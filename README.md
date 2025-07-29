@@ -6,7 +6,7 @@ Sou Tiago Gonçalves Cesar
 
 Tecnólogo em Análise e Desenvolvimento de Sistemas com formação na faculdade Multivix.
 
-Formado em 08/24.
+Formado em 08/2024.
 
 Fazendo curso de Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns na Udemy.
 
